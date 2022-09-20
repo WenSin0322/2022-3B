@@ -14,3 +14,8 @@ big block
 - [ ] todolist
 - [ ] 2nd
 - [x] done
+
+```python
+a = 'this is an example'
+print a
+```
