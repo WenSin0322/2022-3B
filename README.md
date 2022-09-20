@@ -16,6 +16,6 @@ big block
 - [x] done
 
 ```python
-a = 'this is an example'
-print a
+a = "this is an example"
+print (a)
 ```
